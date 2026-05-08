@@ -293,14 +293,6 @@ Project repository:
 https://github.com/HadiAljaami/universal-dashboard-ui
 ```
 
----
-
-## 👨‍💻 Author
-
-Developed by:
-
-**Hadi Aljaami**
-
 GitHub:
 
 ```txt
